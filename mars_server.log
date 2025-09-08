@@ -1,0 +1,121 @@
+[2025-09-08 12:00:57] Client connected from /127.0.0.1
+[2025-09-08 12:00:57] Client: localhost/127.0.0.1 connected to server
+[2025-09-08 12:00:57] Received from client: Temperature: 6
+[2025-09-08 12:01:02] Received from client: Temperature: -6
+[2025-09-08 12:01:07] Received from client: Temperature: -2
+[2025-09-08 12:01:12] Received from client: WARNING: Temperature too cold (-37 degrees)
+[2025-09-08 12:01:17] Received from client: WARNING: Temperature too cold (-48 degrees)
+[2025-09-08 12:01:22] Received from client: WARNING: Temperature too cold (-24 degrees)
+[2025-09-08 12:01:27] Received from client: WARNING: Temperature too cold (-41 degrees)
+[2025-09-08 12:01:32] Received from client: WARNING: Temperature too cold (-18 degrees)
+[2025-09-08 12:01:35] Client connected from /127.0.0.1
+[2025-09-08 12:01:37] Received from client: Temperature: 3
+[2025-09-08 12:01:40] Received from client: jj
+[2025-09-08 12:01:42] Received from client: Temperature: 8
+[2025-09-08 12:01:47] Received from client: WARNING: Temperature too hot (49 degrees)
+[2025-09-08 12:01:52] Received from client: WARNING: Temperature too cold (-48 degrees)
+[2025-09-08 12:01:57] Received from client: Temperature: 24
+[2025-09-08 12:02:02] Received from client: WARNING: Temperature too cold (-42 degrees)
+[2025-09-08 12:02:07] Received from client: WARNING: Temperature too cold (-34 degrees)
+[2025-09-08 12:02:12] Received from client: Temperature: -1
+[2025-09-08 12:02:17] Received from client: WARNING: Temperature too hot (41 degrees)
+[2025-09-08 12:02:22] Received from client: WARNING: Temperature too cold (-25 degrees)
+[2025-09-08 12:02:27] Received from client: WARNING: Temperature too cold (-26 degrees)
+[2025-09-08 12:02:32] Received from client: WARNING: Temperature too cold (-26 degrees)
+[2025-09-08 12:02:37] Received from client: WARNING: Temperature too hot (50 degrees)
+[2025-09-08 12:02:42] Received from client: WARNING: Temperature too hot (38 degrees)
+[2025-09-08 12:02:47] Received from client: WARNING: Temperature too cold (-37 degrees)
+[2025-09-08 12:02:52] Received from client: WARNING: Temperature too cold (-22 degrees)
+[2025-09-08 12:20:57] Client connected from /127.0.0.1
+[2025-09-08 12:20:57] Client: localhost/127.0.0.1 connected to server
+[2025-09-08 12:21:02] Received from client: Pressure out of range! (value: 669)
+[2025-09-08 12:21:12] Received from client: Pressure out of range! (value: 1162)
+[2025-09-08 12:21:17] Received from client: Pressure out of range! (value: 799)
+[2025-09-08 12:21:22] Received from client: Pressure out of range! (value: 1138)
+[2025-09-08 12:21:27] Received from client: Pressure out of range! (value: 753)
+[2025-09-08 12:22:13] Client connected from /127.0.0.1
+[2025-09-08 12:22:13] Client: localhost/127.0.0.1 connected to server
+[2025-09-08 12:22:18] Received from client: Temperature out of range! (value: -35)
+[2025-09-08 12:22:23] Received from client: Temperature out of range! (value: -41)
+[2025-09-08 12:22:33] Received from client: Temperature out of range! (value: -27)
+[2025-09-08 12:22:38] Received from client: Temperature out of range! (value: -19)
+[2025-09-08 12:22:43] Received from client: Temperature out of range! (value: -18)
+[2025-09-08 12:22:48] Received from client: Temperature out of range! (value: -38)
+[2025-09-08 12:22:53] Received from client: Temperature out of range! (value: 36)
+[2025-09-08 12:23:08] Received from client: Temperature out of range! (value: -32)
+[2025-09-08 12:23:13] Received from client: Temperature out of range! (value: -36)
+[2025-09-08 12:23:18] Received from client: Temperature out of range! (value: -43)
+[2025-09-08 12:23:38] Received from client: Temperature out of range! (value: -35)
+[2025-09-08 12:23:58] Received from client: Temperature out of range! (value: -27)
+[2025-09-08 12:24:03] Received from client: Temperature out of range! (value: 49)
+[2025-09-08 12:24:08] Received from client: Temperature out of range! (value: -25)
+[2025-09-08 12:24:18] Received from client: Temperature out of range! (value: -47)
+[2025-09-08 12:24:23] Received from client: Temperature out of range! (value: -50)
+[2025-09-08 12:24:28] Received from client: Temperature out of range! (value: -29)
+[2025-09-08 12:29:22] Client connected from /127.0.0.1
+[2025-09-08 12:29:22] Client: localhost/127.0.0.1 connected to server
+[2025-09-08 12:29:22] Received from client: Pressure out of range! (value: 763)
+[2025-09-08 12:29:52] Received from client: Pressure out of range! (value: 682)
+[2025-09-08 12:30:02] Received from client: Pressure out of range! (value: 702)
+[2025-09-08 12:30:07] Received from client: Pressure out of range! (value: 773)
+[2025-09-08 12:30:12] Received from client: Pressure out of range! (value: 1174)
+[2025-09-08 12:30:22] Received from client: Pressure out of range! (value: 712)
+[2025-09-08 12:30:27] Received from client: Pressure out of range! (value: 1199)
+[2025-09-08 12:30:32] Received from client: Pressure out of range! (value: 733)
+[2025-09-08 12:30:57] Received from client: Pressure out of range! (value: 1112)
+[2025-09-08 12:31:07] Received from client: Pressure out of range! (value: 1140)
+[2025-09-08 12:31:22] Received from client: Pressure out of range! (value: 672)
+[2025-09-08 12:31:47] Received from client: Pressure out of range! (value: 1135)
+[2025-09-08 12:31:57] Received from client: Pressure out of range! (value: 779)
+[2025-09-08 12:32:02] Received from client: Pressure out of range! (value: 674)
+[2025-09-08 12:32:12] Received from client: Pressure out of range! (value: 1191)
+[2025-09-08 12:32:27] Received from client: Pressure out of range! (value: 1174)
+[2025-09-08 12:32:32] Received from client: Pressure out of range! (value: 1119)
+[2025-09-08 12:32:42] Received from client: Pressure out of range! (value: 755)
+[2025-09-08 12:32:47] Received from client: Pressure out of range! (value: 1120)
+[2025-09-08 12:32:57] Received from client: Pressure out of range! (value: 1103)
+[2025-09-08 12:33:12] Received from client: Pressure out of range! (value: 1189)
+[2025-09-08 12:34:51] Client connected from /127.0.0.1
+[2025-09-08 12:34:51] Client: localhost/127.0.0.1 connected to server (Temperature)
+[2025-09-08 12:34:51] Received from client: Temperature: 24
+[2025-09-08 12:34:56] Received from client: Temperature: 35
+[2025-09-08 12:35:01] Received from client: Temperature: 15
+[2025-09-08 12:35:06] Received from client: Temperature: 5
+[2025-09-08 12:35:11] Received from client: Temperature: 23
+[2025-09-08 12:35:16] Received from client: Temperature: 23
+[2025-09-08 12:35:21] Received from client: Temperature: 24
+[2025-09-08 12:35:21] Client connected from /127.0.0.1
+[2025-09-08 12:35:26] Received from client: Temperature: 30
+[2025-09-08 12:35:31] Received from client: Temperature: -11
+[2025-09-08 12:35:36] Received from client: Temperature out of range! (value: 37)
+[2025-09-08 12:35:41] Received from client: Temperature: 1
+[2025-09-08 12:35:46] Received from client: Temperature: 32
+[2025-09-08 12:35:51] Received from client: Temperature: -2
+[2025-09-08 12:35:56] Received from client: Temperature: -7
+[2025-09-08 12:36:01] Received from client: Temperature: 28
+[2025-09-08 12:36:06] Received from client: Temperature: 6
+[2025-09-08 12:36:11] Received from client: Temperature: 32
+[2025-09-08 12:36:16] Received from client: Temperature: -5
+[2025-09-08 12:36:21] Received from client: Temperature out of range! (value: 36)
+[2025-09-08 12:36:26] Received from client: Temperature: 20
+[2025-09-08 12:36:31] Received from client: Temperature: -15
+[2025-09-08 12:36:36] Received from client: Temperature: 0
+[2025-09-08 12:36:41] Received from client: Temperature: 5
+[2025-09-08 12:36:46] Received from client: Temperature: -1
+[2025-09-08 12:36:51] Received from client: Temperature: 19
+[2025-09-08 12:36:56] Received from client: Temperature: 35
+[2025-09-08 12:37:01] Received from client: Temperature: 35
+[2025-09-08 12:37:06] Received from client: Temperature: -7
+[2025-09-08 12:37:11] Received from client: Temperature: -5
+[2025-09-08 12:37:16] Received from client: Temperature: 12
+[2025-09-08 12:37:21] Received from client: Temperature: 22
+[2025-09-08 12:37:26] Received from client: Temperature: 15
+[2025-09-08 12:37:31] Received from client: Temperature: -7
+[2025-09-08 12:37:36] Received from client: Temperature: -13
+[2025-09-08 12:58:39] Client connected from /127.0.0.1
+[2025-09-08 12:58:39] Client: localhost/127.0.0.1 connected to server (CO2 censor)
+[2025-09-08 13:01:22] Client connected from /127.0.0.1
+[2025-09-08 13:01:22] Client: localhost/127.0.0.1 connected to server (Oxygen censor)
+[2025-09-08 13:04:49] Client connected from /127.0.0.1
+[2025-09-08 13:04:49] Client: localhost/127.0.0.1 connected to server (Pressure censor)
+[2025-09-08 13:04:54] Received from client /127.0.0.1: Temperature out of range! (value: 49)
