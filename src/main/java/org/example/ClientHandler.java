@@ -29,7 +29,6 @@ public class ClientHandler implements Runnable {
                 } catch (NumberFormatException e) {
                     writer.println("Invalid value received from : " + socket.getInetAddress() + ": " + valueLine);
                 }
-
                 boolean outOfRange = false;
                 switch (sensorType) {
                     case "Temperature" -> {
@@ -59,9 +58,10 @@ public class ClientHandler implements Runnable {
                     writer.println(message);
                     SimpleLogger.log(message);
                 } else {
-                    System.out.println(message);
                     message = "Received from client " + socket.getInetAddress() + ": " + sensorType + ": " + value;
+                    System.out.println(message);
                     writer.println(message);
+                    SimpleLogger.log(message);
                 }
             }
         } catch (Exception e) {

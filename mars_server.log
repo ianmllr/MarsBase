@@ -119,3 +119,76 @@
 [2025-09-08 13:04:49] Client connected from /127.0.0.1
 [2025-09-08 13:04:49] Client: localhost/127.0.0.1 connected to server (Pressure censor)
 [2025-09-08 13:04:54] Received from client /127.0.0.1: Temperature out of range! (value: 49)
+[2025-09-08 13:13:14] Client connected from /127.0.0.1
+[2025-09-08 13:13:14] Client: localhost/127.0.0.1 connected to server (CO2 censor)
+[2025-09-08 13:13:24] Received from client /127.0.0.1: CO2 out of range! (value: 2003)
+[2025-09-08 13:13:57] Client connected from /127.0.0.1
+[2025-09-08 13:13:57] Client: localhost/127.0.0.1 connected to server (Oxygen censor)
+[2025-09-08 13:14:12] Client connected from /127.0.0.1
+[2025-09-08 13:14:12] Client: localhost/127.0.0.1 connected to server (Pressure censor)
+[2025-09-08 13:14:34] Received from client /127.0.0.1: CO2 out of range! (value: 2016)
+[2025-09-08 13:15:22] Client connected from /127.0.0.1
+[2025-09-08 13:15:22] java.net.Socket$SocketInputStream@31cefde0
+[2025-09-08 13:15:22] Client: localhost/127.0.0.1 connected to server (CO2 censor)
+[2025-09-08 13:15:27] Received from client /127.0.0.1: CO2 out of range! (value: 2053)
+[2025-09-08 13:17:22] Client connected from /127.0.0.1
+[2025-09-08 13:17:22] Client: localhost/127.0.0.1 connected to server (CO2 censor)
+[2025-09-08 13:17:23] Received from client /127.0.0.1: CO2: 266
+[2025-09-08 13:17:25] Client connected from /127.0.0.1
+[2025-09-08 13:17:25] Client: localhost/127.0.0.1 connected to server (Oxygen censor)
+[2025-09-08 13:17:25] Received from client /127.0.0.1: Oxygen: 16
+[2025-09-08 13:17:28] Received from client /127.0.0.1: CO2: 1923
+[2025-09-08 13:17:30] Received from client /127.0.0.1: Oxygen: 14
+[2025-09-08 13:17:33] Received from client /127.0.0.1: CO2: 968
+[2025-09-08 13:17:35] Received from client /127.0.0.1: Oxygen: 27
+[2025-09-08 13:17:38] Received from client /127.0.0.1: CO2: 1985
+[2025-09-08 13:17:40] Received from client /127.0.0.1: Oxygen: 24
+[2025-09-08 13:17:43] Received from client /127.0.0.1: CO2: 1435
+[2025-09-08 13:17:45] Received from client /127.0.0.1: Oxygen: 21
+[2025-09-08 13:17:48] Received from client /127.0.0.1: CO2: 1756
+[2025-09-08 13:17:50] Received from client /127.0.0.1: Oxygen: 16
+[2025-09-08 13:17:53] Received from client /127.0.0.1: CO2: 380
+[2025-09-08 13:17:55] Received from client /127.0.0.1: Oxygen: 25
+[2025-09-08 13:17:58] Received from client /127.0.0.1: CO2: 1041
+[2025-09-08 13:18:00] Received from client /127.0.0.1: Oxygen: 26
+[2025-09-08 13:18:03] Received from client /127.0.0.1: CO2: 523
+[2025-09-08 13:18:05] Received from client /127.0.0.1: Oxygen: 15
+[2025-09-08 13:18:08] Received from client /127.0.0.1: CO2: 795
+[2025-09-08 13:18:10] Received from client /127.0.0.1: Oxygen: 25
+[2025-09-08 13:18:13] Received from client /127.0.0.1: CO2: 646
+[2025-09-08 13:18:15] Received from client /127.0.0.1: Oxygen: 14
+[2025-09-08 13:18:18] Received from client /127.0.0.1: CO2: 1652
+[2025-09-08 13:18:20] Received from client /127.0.0.1: Oxygen: 26
+[2025-09-08 13:18:23] Received from client /127.0.0.1: CO2: 1286
+[2025-09-08 13:18:25] Received from client /127.0.0.1: Oxygen: 19
+[2025-09-08 13:18:28] Received from client /127.0.0.1: CO2: 1120
+[2025-09-08 13:18:28] Client connected from /127.0.0.1
+[2025-09-08 13:18:28] Client: localhost/127.0.0.1 connected to server (Temperature censor)
+[2025-09-08 13:18:28] Received from client /127.0.0.1: Temperature: 5
+[2025-09-08 13:18:30] Received from client /127.0.0.1: Oxygen: 25
+[2025-09-08 13:18:33] Received from client /127.0.0.1: CO2 out of range! (value: 2024)
+[2025-09-08 13:18:33] Received from client /127.0.0.1: Temperature: -2
+[2025-09-08 13:18:34] Client connected from /127.0.0.1
+[2025-09-08 13:18:34] Client: localhost/127.0.0.1 connected to server (Pressure censor)
+[2025-09-08 13:18:34] Received from client /127.0.0.1: Pressure: 884
+[2025-09-08 13:18:35] Received from client /127.0.0.1: Oxygen: 26
+[2025-09-08 13:18:38] Received from client /127.0.0.1: CO2: 1300
+[2025-09-08 13:18:38] Received from client /127.0.0.1: Temperature: 19
+[2025-09-08 13:18:39] Received from client /127.0.0.1: Pressure: 669
+[2025-09-08 13:18:40] Received from client /127.0.0.1: Oxygen: 19
+[2025-09-08 13:18:43] Received from client /127.0.0.1: CO2: 551
+[2025-09-08 13:18:43] Received from client /127.0.0.1: Temperature out of range! (value: -33)
+[2025-09-08 13:18:44] Received from client /127.0.0.1: Pressure: 963
+[2025-09-08 13:18:45] Received from client /127.0.0.1: Oxygen: 28
+[2025-09-08 13:18:48] Received from client /127.0.0.1: CO2: 999
+[2025-09-08 13:18:48] Received from client /127.0.0.1: Temperature out of range! (value: 48)
+[2025-09-08 13:18:49] Received from client /127.0.0.1: Pressure: 725
+[2025-09-08 13:18:50] Received from client /127.0.0.1: Oxygen: 27
+[2025-09-08 13:18:53] Received from client /127.0.0.1: CO2: 287
+[2025-09-08 13:18:54] Received from client /127.0.0.1: Temperature out of range! (value: -44)
+[2025-09-08 13:18:54] Received from client /127.0.0.1: Pressure: 760
+[2025-09-08 13:18:55] Received from client /127.0.0.1: Oxygen: 17
+[2025-09-08 13:18:58] Received from client /127.0.0.1: CO2: 1183
+[2025-09-08 13:18:59] Received from client /127.0.0.1: Temperature out of range! (value: 37)
+[2025-09-08 13:18:59] Received from client /127.0.0.1: Pressure: 652
+[2025-09-08 13:19:00] Received from client /127.0.0.1: Oxygen: 23

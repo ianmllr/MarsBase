@@ -17,7 +17,7 @@ public class MarsServer {
     public static void main(String[] args) {
         ExecutorService threadPool = Executors.newFixedThreadPool(THREAD_POOL_SIZE);
 
-        try (ServerSocket serverSocket = new ServerSocket(PORT)) {
+        try (ServerSocket serverSocket = new ServerSocket(PORT)) { // tjekker for nye forbindelser
             while (true) {
                 Socket socket = serverSocket.accept();
                 SimpleLogger.log("Client connected from " + socket.getInetAddress());
